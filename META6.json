@@ -1,0 +1,22 @@
+{
+  "auth": "zef:lizmat",
+  "authors": [
+    "Elizabeth Mattijsen"
+  ],
+  "build-depends": [
+  ],
+  "depends": [ "JSON::Tiny"
+  ],
+  "description": "Combined repository of all raku modules",
+  "license": "Artistic-2.0",
+  "name": "App::Uni",
+  "perl": "6",
+  "provides": { },
+  "resources": [ ],
+  "source-url": "git://github.com/lizmat/raku-all-modules.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": ""
+}
